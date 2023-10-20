@@ -1,6 +1,6 @@
 /* Page */
 
-.diff.line .line.wrapper, .diff.line .empty.line.wrapper .hljs {
+.file.diff .line.content, .diff.line .empty.line.wrapper .hljs {
   background-color: #181830;
 }
 
