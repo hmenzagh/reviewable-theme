@@ -1,13 +1,13 @@
 /* Page */
 
 /* Code BG */
-:root {
+/* :root {
   --bg-2: #2d2b57;
   --bg-1: black;
 }
 .file.root {
   background-color: #2d2b57;
-}
+} */
 /* No Wavy Lines */
 .review-page .file.root .file .wavy.edge {
   background-image: none;
