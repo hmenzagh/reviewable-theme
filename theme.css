@@ -1,7 +1,7 @@
 /* Page */
 
 /* Code BG */
-.file.diff .line.content, .empty.line.wrapper .hljs {
+.file.root .file.title {
   background-color: #2d2b57;
 }
 /* No Wavy Lines */
