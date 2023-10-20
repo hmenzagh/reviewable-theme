@@ -1,7 +1,10 @@
 /* Page */
 
 /* Code BG */
-.file.root .file.title .diff.pane .file.diff {
+:root {
+  --bg-2: #2d2b57;
+}
+.file.root {
   background-color: #2d2b57;
 }
 /* No Wavy Lines */
