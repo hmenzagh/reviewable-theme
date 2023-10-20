@@ -3,6 +3,7 @@
 /* Code BG */
 :root {
   --bg-2: #2d2b57;
+  --bg-1: black;
 }
 .file.root {
   background-color: #2d2b57;
