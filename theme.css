@@ -1,7 +1,7 @@
 /* Page */
 
 .diff.line .line.wrapper, .diff.line .empty.line.wrapper .hljs {
-  background-color: #2d2b57;
+  background-color: #181830;
 }
 
 /* Shades of purple */
@@ -21,7 +21,7 @@
 	/* font-family: 'Operator Mono', 'Fira Code', 'Menlo', 'Monaco', 'Courier New', 'monospace';  */
 	line-height: 1.45;
 	padding: 2rem;
-	background: #2d2b57;
+	background: #181830;
 	font-weight: normal;
 }
 
